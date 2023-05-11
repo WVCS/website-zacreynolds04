@@ -1,5 +1,5 @@
 body {
-  background-color: #D7263D
+  background-color: #D8E4FF
 }
 
 h1{ font-family: papyrus;
@@ -7,11 +7,11 @@ h1{ font-family: papyrus;
     text-align: center
 }
 p{ font-family: verdana;
-  color: #1B998B
+  color: #35605A
   
 }
 img:hover{
-  box-shadow: 0 0 4px 3px #F46036;
+  box-shadow: 0 0 4px 3px #6B818C;
 
   transform: rotate(2deg);
 }
@@ -20,5 +20,5 @@ table{
   border: solid
 }
  th{border: dashed;
-   color: lightblue
+   color: #31E981
 }
