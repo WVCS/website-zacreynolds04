@@ -23,14 +23,14 @@ table{
    color: #31E981
 }
 nav{list-style-type: none;
-postition: fixed;
-background:#31E981;
+position: fixed;
+background-color:#31E981;
 width: 100vw;
  top: 0;
-   left: 0
+   left: 0;
 }
 li{display: inline;
-padding: 13px;
+padding: 15px;
 }
 a{text-decoration: none;
 color: #2E294E }
